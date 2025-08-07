@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **xaviercampos2425@gmail.com**
 
-- 📄 Know about my experiences! [Resume](https://docs.google.com/document/d/1gVTJj9fgSyV6fmzQGDjZg0LXFAwtuWszeqXauCHQ3hs/edit?usp=sharing)
-
 - ⚡ Fun fact **Spotify is life.**
 
 <h3 align="left">Connect with me:</h3>
