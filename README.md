@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 I’m currently working on [Axxon](https://github.com/Nakuziri/Axxon)<br><br>- 🌱 I’m currently learning **TypeScript, Next.JS, and TanStack**<br><br>- 💬 Ask me about **Web Development!**<br><br>- 📫 How to reach me **xaviercampos2425@gmail.com**<br><br>- ⚡ Fun fact **Spotify is life.**
+Lead Engineer @ Blitz corp
 
 
 ## 🌐 Socials:
