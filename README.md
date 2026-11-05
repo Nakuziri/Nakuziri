@@ -1,4 +1,4 @@
-Lead Engineer @ Blitz corp
+Founding AI Engineer @ AlongAI
 
 
 ## 🌐 Socials:
